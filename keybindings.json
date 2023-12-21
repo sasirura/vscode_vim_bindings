@@ -60,7 +60,6 @@
     "key": "d",
     "when": "filesExplorerFocus && !inputFocus"
   },
-
   // EXTRA
   {
     "key": "ctrl+shift+5",
